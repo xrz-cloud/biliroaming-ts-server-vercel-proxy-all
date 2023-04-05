@@ -12,21 +12,21 @@ type _block_region = ["cn" | "hk" | "tw" | "th"];
 export const api = {
   main: {
     web: {
-      playurl: "https://api.bilibili.com",
+      playurl: "https://xn--79q440a.xyz",
       search: "https://api.bilibili.com",
       season_info: "https://api.bilibili.com",
       user_info: "https://api.bilibili.com",
       third_login: "https://passport.bilibili.com",
     },
     app: {
-      playurl: "https://api.bilibili.com",
+      playurl: "https://xn--79q440a.xyz",
       search: "https://app.bilibili.com",
       season_info: "https://api.bilibili.com",
       user_info: "https://app.bilibili.com",
     },
   },
   intl: {
-    playurl: "https://app.biliintl.com",
+    playurl: "https://melusinesuki.site",
     subtitle: "https://app.biliintl.com",
     search: "https://app.biliintl.com",
     season_info: "https://app.biliintl.com",
